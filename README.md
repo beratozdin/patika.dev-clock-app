@@ -1,1 +1,2 @@
-# patika.dev-js-homeworks
+# patika.dev 
+Javascript Homework 1
