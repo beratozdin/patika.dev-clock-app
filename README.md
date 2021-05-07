@@ -1,4 +1,4 @@
-# patika.dev 
-Javascript patikasının ilk ödevi olan basit bir saat uygulaması.
+#H1 patika.dev 
+#H2 Javascript patikasının ilk ödevi olan basit bir saat uygulaması.
 
-[DEMO Link](https://beratozdin.github.io/patika.dev-clock-app/)
+[Demo Link](https://beratozdin.github.io/patika.dev-clock-app/)
