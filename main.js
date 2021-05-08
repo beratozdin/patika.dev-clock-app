@@ -28,7 +28,7 @@ function returnDate(){
 	else{
 		Second=time.getSeconds().toString();
 	}
-	console.log(time.getDay());
+
 	document.getElementById("heading").innerHTML =Hour+":"+Minute+":"+Second+" "+Days[time.getDay()];
 }
 function setName(){
